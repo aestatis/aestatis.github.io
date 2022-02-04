@@ -1,2 +1,2 @@
-# My stupid blog
+My stupid blog
 
