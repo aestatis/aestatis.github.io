@@ -1,4 +1,4 @@
-# Are You Lost
+# Scrambled Eggs
 
 「呪術の真髄が何だかご存じだろうか？」
 
