@@ -1,1 +1,1 @@
-Hello and not welcome to this blog. 
+Hello but not welcome to this blog. 
